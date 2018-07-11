@@ -1,0 +1,32 @@
+/*
+
+selected tag{
+property: value;
+property: value;
+...
+}
+
+*/
+
+html{
+  
+}
+
+h1{
+  font-family: "Arial";
+  text-align: center;
+}
+
+p{
+  font-family: XoloniumRegular;
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  font-size: 20px;
+}
+
+#two{
+  font-size: 3.2118em;
+}

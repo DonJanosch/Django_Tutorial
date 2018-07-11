@@ -1,0 +1,33 @@
+h1{
+   font-family: 'PecitaBook';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 40px;
+   text-align: center;
+} 
+
+#tab1{
+  margin: auto;
+}
+
+td{
+  height: 20em;
+  width: 10em;
+  border: 0.5em solid white;
+}
+
+#td1{
+  background: #050517;
+}
+#td2{
+  background: #cf5c36;
+}
+#td3{
+  background: #efc88b;
+}
+#td4{
+  background: #f4e3b2;
+}
+#td5{
+  background: #d3d5d7;
+}

@@ -1,0 +1,19 @@
+/*
+id > class > general
+
+Specificity is a weight which is calculated for each item to determine theyr sequence of effect... 
+
+*/
+
+li{
+color: red;
+}
+
+.topitems{
+color: blue;
+}
+
+#two{
+color: green;
+border: 3px solid black;
+}

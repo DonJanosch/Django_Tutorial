@@ -1,0 +1,30 @@
+/*
+
+selected tag{
+property: value;
+property: value;
+...
+}*/
+
+
+body{
+background: url(https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg);
+background-repeat: no-repeat;
+}
+
+div{
+background: blue;
+border-color: orange;
+border-width: 4px;
+border-style: double;
+
+}
+
+p{
+color: yellow;
+}
+
+span{
+background: red;
+color: black;
+}

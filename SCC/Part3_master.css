@@ -1,0 +1,26 @@
+.firstDiv{ /*to address classes use .*/
+color: blue;
+}
+
+.secondDiv{
+color: red;
+}
+
+#singledout{ /*to address IDs use #*/
+color: green;
+text-decoration: line-through;
+}
+
+h3 + ul{ /*all unordered lists that follow after a h3*/
+border: 4px dotted purple;
+}
+
+li a[href="https://www.google.com"]{ /*selecting/slicing individual attributes with []*/
+color: blue;
+border: 5px solid orange;
+}
+
+li a{ /*all anchor-tags inside a list-element*/
+color: red;
+}
+
